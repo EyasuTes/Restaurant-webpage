@@ -2,6 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     background-color: #9ca3af;
+    
   }
 #content{
     
@@ -41,9 +42,10 @@ button:hover{
     width: 100%;
 }
 .image{
-    flex: 1;
+    width: 100vh;
+    height: 50vh;
 }
 .araya{
-    flex: 1;
+    
     text-align: center;
 }
